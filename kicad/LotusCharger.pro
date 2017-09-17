@@ -1,4 +1,4 @@
-update=16/09/2017 17:31:37
+update=17/09/2017 10:45:36
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,7 +25,7 @@ version=1
 NetIExt=net
 [eeschema]
 version=1
-LibDir=
+LibDir=../../TL2C/kicad/Hutschiene/lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -56,5 +56,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=D:/pcbs/TL2C/kicad/Hutschiene/lib/tl2c-symbols
 [general]
 version=1
